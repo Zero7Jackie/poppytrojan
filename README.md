@@ -1,4 +1,4 @@
-# poppyransomware
+# Poppy Ransomware
 Bu virüs bilgisayara geri dönülemez bir zarar vermektedir, sanal makine üzerinde deneyiniz. Sorumluluk kabul etmemekteyiz. 
 Programın çalışması için net framework 8.0 gerekmektedir.
 
